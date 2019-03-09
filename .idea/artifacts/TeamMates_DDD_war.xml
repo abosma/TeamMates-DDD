@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TeamMates-DDD:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>TeamMates-DDD</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="TeamMates-DDD-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="TeamMates-DDD:war exploded" />
+    </root>
+  </artifact>
+</component>
