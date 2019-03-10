@@ -6,7 +6,42 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="897eb26c-c4eb-4e3d-a13d-8917e81ac2d9" name="Default Changelist" comment="" />
+    <list default="true" id="897eb26c-c4eb-4e3d-a13d-8917e81ac2d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20180813.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/teammates/account/apitests/CourseRESTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/TeamMates_DDD_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/TeamMates_DDD_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamMates-DDD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TeamMates-DDD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/teammates/account/api/CourseRESTService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/teammates/account/api/CourseRESTService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/teammates/account/core/CourseApplicationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/teammates/account/core/CourseApplicationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/teammates/account/core/ICourseApplicationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/teammates/account/core/ICourseApplicationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/teammates/account/domain/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/teammates/account/domain/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/teammates/account/domain/Repositories/CourseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/teammates/account/domain/Repositories/CourseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/teammates/account/domain/Repositories/ICourseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/teammates/account/domain/Repositories/ICourseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/teammates/account/domain/ValueObjects/CourseId.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/teammates/account/domain/ValueObjects/CourseId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teammates/account/api/CourseRESTService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/teammates/account/api/CourseRESTService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teammates/account/core/CourseApplicationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/teammates/account/core/CourseApplicationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teammates/account/core/ICourseApplicationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/teammates/account/core/ICourseApplicationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teammates/account/domain/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/teammates/account/domain/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teammates/account/domain/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/teammates/account/domain/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teammates/account/domain/Instructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/teammates/account/domain/Instructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teammates/account/domain/Repositories/CourseRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/teammates/account/domain/Repositories/CourseRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teammates/account/domain/Repositories/ICourseRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/teammates/account/domain/Repositories/ICourseRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teammates/account/domain/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/teammates/account/domain/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teammates/account/domain/ValueObjects/AccountId.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/teammates/account/domain/ValueObjects/AccountId.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teammates/account/domain/ValueObjects/CourseId.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/teammates/account/domain/ValueObjects/CourseId.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teammates/account/domain/ValueObjects/InstructorId.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/teammates/account/domain/ValueObjects/InstructorId.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/teammates/account/domain/ValueObjects/StudentId.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/teammates/account/domain/ValueObjects/StudentId.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
@@ -17,12 +52,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/api/CourseRESTService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="30" selection-start-column="30" selection-end-column="30" />
+            <state relative-caret-position="452">
+              <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,36 +65,117 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="748">
+              <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/domain/Repositories/CourseRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="1071">
+              <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+              <folding>
+                <element signature="e#357#365#0" expanded="true" />
+                <element signature="e#1533#1534#0" expanded="true" />
+                <element signature="e#1624#1625#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/teammates/account/apitests/CourseRESTTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/domain/Course.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="63" column="5" lean-forward="true" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#674#675#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="method#getInstructor#0;class#Course#0" />
+                <element signature="method#isStudentAssigned#0;class#Course#0" />
+                <element signature="e#1387#1388#0" expanded="true" />
+                <element signature="method#getStudents#0;class#Course#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/core/ICourseApplicationService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/core/CourseApplicationService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="76" column="34" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/domain/Repositories/ICourseRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="dummy://restClient/response15.html" root0="SKIP_INSPECTION" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/teammates/account/domain/Course.java" />
-        <option value="$PROJECT_DIR$/src/main/java/teammates/account/api/CourseRESTService.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/teammates/account/domain/ValueObjects/InstructorId.java" />
+        <option value="$PROJECT_DIR$/src/main/java/teammates/account/domain/ValueObjects/AccountId.java" />
+        <option value="$PROJECT_DIR$/src/main/java/teammates/account/domain/ValueObjects/StudentId.java" />
+        <option value="$PROJECT_DIR$/src/main/java/teammates/account/domain/ValueObjects/CourseId.java" />
+        <option value="$PROJECT_DIR$/src/main/java/teammates/account/domain/Repositories/ICourseRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/teammates/account/domain/Repositories/CourseRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/teammates/account/core/ICourseApplicationService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/teammates/account/api/CourseRESTService.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/teammates/account/domain/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/teammates/account/core/CourseApplicationService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/teammates/account/apitests/CourseRESTTest.java" />
       </list>
     </option>
   </component>
@@ -89,7 +205,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,12 +250,62 @@
             <path>
               <item name="TeamMates-DDD" type="b2602c69:ProjectViewProjectNode" />
               <item name="TeamMates-DDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamMates-DDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamMates-DDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamMates-DDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamMates-DDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="Repositories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamMates-DDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamMates-DDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamMates-DDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamMates-DDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamMates-DDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamMates-DDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apitests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamMates-DDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamMates-DDD" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -148,9 +313,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.45057473" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
@@ -190,7 +356,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.teammates.account.apitests in TeamMates-DDD">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="TeamMates-DDD" />
+      <option name="PACKAGE_NAME" value="teammates.account.apitests" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="teammates.account.apitests in TeamMates-DDD" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TeamMates-DDD" />
+      <option name="PACKAGE_NAME" value="teammates.account.apitests" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.16" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.16" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -263,6 +451,10 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.teammates.account.apitests in TeamMates-DDD" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.16" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -275,11 +467,45 @@
       <option name="presentableId" value="Default" />
       <updated>1552135953189</updated>
       <workItem from="1552135961213" duration="3592000" />
+      <workItem from="1552215168072" duration="26000" />
+      <workItem from="1552215388344" duration="14883000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="teammates_account_apitests_in_TeamMates-DDD - 2019.03.10 at 15h 22m 58s.xml">
+      <configuration name="teammates.account.apitests in TeamMates-DDD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="teammates_account_apitests_in_TeamMates-DDD - 2019.03.10 at 15h 23m 26s.xml">
+      <configuration name="teammates.account.apitests in TeamMates-DDD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="teammates_account_apitests_in_TeamMates-DDD - 2019.03.10 at 15h 33m 17s.xml">
+      <configuration name="teammates.account.apitests in TeamMates-DDD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="teammates_account_apitests_in_TeamMates-DDD - 2019.03.10 at 15h 43m 38s.xml">
+      <configuration name="teammates.account.apitests in TeamMates-DDD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="teammates_account_apitests_in_TeamMates-DDD - 2019.03.10 at 15h 55m 09s.xml">
+      <configuration name="teammates.account.apitests in TeamMates-DDD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="teammates_account_apitests_in_TeamMates-DDD - 2019.03.10 at 15h 55m 51s.xml">
+      <configuration name="teammates.account.apitests in TeamMates-DDD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="teammates_account_apitests_in_TeamMates-DDD - 2019.03.10 at 16h 18m 51s.xml">
+      <configuration name="teammates.account.apitests in TeamMates-DDD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="teammates_account_apitests_in_TeamMates-DDD - 2019.03.10 at 16h 25m 55s.xml">
+      <configuration name="teammates.account.apitests in TeamMates-DDD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="teammates_account_apitests_in_TeamMates-DDD - 2019.03.10 at 16h 27m 00s.xml">
+      <configuration name="teammates.account.apitests in TeamMates-DDD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="teammates_account_apitests_in_TeamMates-DDD - 2019.03.10 at 16h 27m 29s.xml">
+      <configuration name="teammates.account.apitests in TeamMates-DDD" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3592000" />
+    <option name="totallyTimeSpent" value="18501000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,7 +523,7 @@
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="REST Client" order="0" weight="0.33044422" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32936078" />
@@ -306,7 +532,7 @@
       <window_info anchor="bottom" id="Messages" order="4" weight="0.32936078" />
       <window_info anchor="bottom" id="Java Enterprise" order="5" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Find" order="10" />
@@ -329,13 +555,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/domain/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.rmi/sun/rmi/transport/tcp/TCPTransport.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -360,16 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/api/CourseRESTService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -377,10 +586,131 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/domain/Instructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/domain/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/domain/ValueObjects/StudentId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/domain/ValueObjects/InstructorId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/domain/ValueObjects/CourseId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/domain/ValueObjects/AccountId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/domain/Repositories/ICourseRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/domain/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="63" column="5" lean-forward="true" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="method#getInstructor#0;class#Course#0" />
+            <element signature="method#isStudentAssigned#0;class#Course#0" />
+            <element signature="e#1387#1388#0" expanded="true" />
+            <element signature="method#getStudents#0;class#Course#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/core/ICourseApplicationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="748">
+          <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/domain/Repositories/CourseRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="e#357#365#0" expanded="true" />
+            <element signature="e#1533#1534#0" expanded="true" />
+            <element signature="e#1624#1625#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/api/CourseRESTService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/teammates/account/core/CourseApplicationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="76" column="34" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/teammates/account/apitests/CourseRESTTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -418,7 +748,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.45057473" />
               </list>
             </option>
           </splitter-proportions>
@@ -430,7 +760,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.45057473" />
               </list>
             </option>
           </splitter-proportions>

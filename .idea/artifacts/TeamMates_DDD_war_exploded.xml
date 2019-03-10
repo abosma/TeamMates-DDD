@@ -24,6 +24,7 @@
           <element id="library" level="project" name="Maven: org.glassfish.hk2.external:jakarta.inject:2.5.0" />
           <element id="library" level="project" name="Maven: javax.validation:validation-api:2.0.1.Final" />
           <element id="library" level="project" name="Maven: org.glassfish.jersey.containers:jersey-container-servlet-core:2.28" />
+          <element id="library" level="project" name="Maven: org.json:json:20180813" />
         </element>
       </element>
       <element id="directory" name="META-INF">

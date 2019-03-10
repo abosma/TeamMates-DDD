@@ -1,6 +1,7 @@
 package teammates.account.domain.ValueObjects;
 
 public class CourseId {
+
     public String id;
 
     public CourseId(String courseId)

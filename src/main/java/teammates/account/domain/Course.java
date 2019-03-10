@@ -4,6 +4,7 @@ import teammates.account.domain.ValueObjects.CourseId;
 import teammates.account.domain.ValueObjects.InstructorId;
 import teammates.account.domain.ValueObjects.StudentId;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
@@ -13,7 +14,7 @@ public class Course {
     private CourseId courseId;
     private InstructorId instructorId;
 
-    private List<StudentId> studentIds;
+    private List<StudentId> studentIds = new ArrayList<StudentId>();
 
     private String name = "";
 
@@ -21,6 +22,11 @@ public class Course {
     {
         this.serialNumber = UUID.randomUUID();
         this.courseId = new CourseId(id);
+    }
+
+    public CourseId getCourseId()
+    {
+        return courseId;
     }
 
     public boolean hasInstructor()
@@ -31,6 +37,18 @@ public class Course {
     public void addInstructor(String instructor)
     {
         instructorId = new InstructorId(instructor);
+    }
+
+    public InstructorId getInstructor()
+    {
+        InstructorId returnId = null;
+
+        if(instructorId != null)
+        {
+            returnId = instructorId;
+        }
+
+        return returnId;
     }
 
     public boolean isStudentAssigned(String student)
@@ -45,16 +63,33 @@ public class Course {
         studentIds.add(new StudentId(student));
     }
 
+    public List<StudentId> getStudents()
+    {
+        List<StudentId> returnList = new ArrayList<>();
+
+        if(studentIds != null || !studentIds.isEmpty())
+        {
+            returnList = studentIds;
+        }
+
+        return returnList;
+    }
+
     @Override
     public String toString()
     {
         String students = "";
+        String instructor = instructorId != null ? instructorId.getInstructorId() : "";
+        String course = courseId.getCourseId();
 
-        for(StudentId ID : studentIds)
+        if(!studentIds.isEmpty())
         {
-            students += ID + "\n";
+            for(StudentId ID : studentIds)
+            {
+                students += ID.getStudentId() + "\n";
+            }
         }
 
-        return String.format("Instructor: %a\nStudents: %b", instructorId.getInstructorId(), students);
+        return String.format("Course: %s\nInstructor: %s\nStudents: %s", course, instructor, students);
     }
 }
